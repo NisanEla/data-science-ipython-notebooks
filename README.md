@@ -1,6 +1,6 @@
-<br/>
 <p align="center">
-  <img src="http://acmgazi.org/img/logo.png">
+  <img src="https://raw.githubusercontent.com/acmgazi/data-science-ipython-notebooks/master/images/logo_black.jpg" width = 400>
+  <p> ACM Gazi deliver the best ipython notebooks has ever created to it's members. These notebooks are beginner to advenced level and about data science, machine learning and deep learning. If you have a question about how to study on notebooks, feel free to open an issue.
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
