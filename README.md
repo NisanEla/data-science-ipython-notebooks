@@ -1,5 +1,8 @@
 <br/>
 <p align="center">
+  <img src="http://acmgazi.org/img/logo.png">
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
 </p>
 
@@ -383,6 +386,7 @@ Notebooks tested with Python 2.7.x.
 
 ## credits
 
+* [Donne Martin - Content developer](https://github.com/donnemartin)
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas
@@ -397,39 +401,3 @@ Notebooks tested with Python 2.7.x.
 * [Keras tutorials](https://github.com/leriomaggio/deep-learning-keras-tensorflow) by Valerio Maggio
 * [Kaggle](https://www.kaggle.com/)
 * [Yhat Blog](http://blog.yhat.com/)
-
-## contributing
-
-Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/donnemartin/data-science-ipython-notebooks/issues).
-
-## contact-info
-
-Feel free to contact me to discuss any issues, questions, or comments.
-
-* Email: [donne.martin@gmail.com](mailto:donne.martin@gmail.com)
-* Twitter: [@donne_martin](https://twitter.com/donne_martin)
-* GitHub: [donnemartin](https://github.com/donnemartin)
-* LinkedIn: [donnemartin](https://www.linkedin.com/in/donnemartin)
-* Website: [donnemartin.com](http://donnemartin.com)
-
-## license
-
-This repository contains a variety of content; some developed by Donne Martin, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
-
-The content developed by Donne Martin is distributed under the following license:
-
-*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
-
-    Copyright 2015 Donne Martin
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
